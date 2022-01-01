@@ -1,0 +1,23 @@
+body{
+    background-color: #fff;
+    padding: 7% 7%;
+  
+}
+div{
+    text-align: center;
+}
+
+.icon{
+    color:#11ad11;
+    
+  }
+  /* .icon:hover{
+    color:#ff4c68;
+  } */
+ 
+p{
+    /* font-size: 1.5em; */
+    color: #909294;
+    font-family: 'Roboto', sans-serif;
+    box-sizing: inherit;
+}
